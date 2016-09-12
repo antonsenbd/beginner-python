@@ -5,4 +5,8 @@
 * pizzsa
 * pizza
 * pizza
-* pizza
+* pizza\
+
+```
+python run.py
+```
